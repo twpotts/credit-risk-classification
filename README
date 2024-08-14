@@ -1,0 +1,16 @@
+Description:
+
+This notebook uses a Logistic Regression model to predict credit defaults, then analyzes its performance.
+
+Folder structure:
+
+Credit_Risk
+    credit_risk_classification.ipynb
+    lending_data.csv
+.gitignore
+README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
